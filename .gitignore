@@ -1,5 +1,5 @@
 *.js
-
-../*tut*/
-../.idea/
-../.vs/
+*tut*/
+.idea/
+.vs/
+.sync
