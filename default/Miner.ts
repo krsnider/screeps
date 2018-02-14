@@ -6,4 +6,4 @@ var Miner = {
 
 };
 
-module.exports = 'Miner';
+module.exports = Miner;
